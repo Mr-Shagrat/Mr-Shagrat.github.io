@@ -218,10 +218,11 @@ h6 {
   line-height: 20px;
   padding: 0 5px;
   white-space: nowrap;
+  color: #18216d;
 }
 
 .menu__item:visited {
-  color: inherit;
+  color: #18216d;
 }
 
 .menu__item-btn {
@@ -564,10 +565,11 @@ body.lock {
   font-weight: 500;
   font-size: 20px;
   line-height: 16px;
+  color: #18216d;
 }
 
 .item__link:visited {
-  color: inherit;
+  color: #18216d;
 }
 
 .link-anim {
